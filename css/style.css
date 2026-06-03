@@ -31,10 +31,16 @@ section {
     margin-block: 100px;
 }
 
-footer {
+.teal-text {
+    color: #087A98;
+}
+.teal-bg {
     padding: 20px;
+    background-color: #087A98;
+    color: #ffffff;
+    border: 10px solid #0b4a5a
+}
+
+footer {
     text-align: center;
-    background-color: #22466C;
-    color: #FFFFFF;
-    border: 10px #6E84CF solid;
 }
